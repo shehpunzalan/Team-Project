@@ -1,6 +1,6 @@
 # Team Project
 This is a collaborative Git activity.
-Members:
+Team Members:
 Sualog - Fullstack Developer
 Ritualo - Frontend Developer
 Quinatac-an - Backend Developer
